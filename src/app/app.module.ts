@@ -12,7 +12,6 @@ import { HerokuTestComponent } from './heroku-test/heroku-test.component';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    HerokuTestComponent,
   ],
   providers: [],
   bootstrap: [AppComponent],
