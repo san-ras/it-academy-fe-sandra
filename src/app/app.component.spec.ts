@@ -6,7 +6,6 @@ describe('AppComponent', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       imports: [
-        ToastrModule.forRoot(),
         RouterTestingModule
       ],
       declarations: [
